@@ -1,0 +1,1 @@
+Android apps using Vision and lotto scanner
